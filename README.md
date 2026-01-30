@@ -92,7 +92,7 @@ Or, you can break it down with full customisability:
 
     # use the French locale, with days and month names being translated to French.
     $calendar->setLocale('fr_FR');
-    # This uses the Carbon locales - https://carbon.nesbot.com/docs/#api-localization
+    # This uses the Carbon locales - https://carbon.nesbot.com/guide/getting-started/localization.html#localization
 
     # add your own table class(es)
     $calendar->addTableClasses('class-1 class-2 class-3');
