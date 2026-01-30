@@ -239,7 +239,7 @@ You can now change the weekly start date from a **Sunday** to a **Monday**. To a
 
 #### Translated Calendars
 
-We now use automatically from the date and the setLocale() method. If you use ->setLocale('fr_FR'), then the days and month names will be French. For more information on the Carbon localization, see https://carbon.nesbot.com/docs/#api-localization
+We now use automatically from the date and the setLocale() method. If you use ->setLocale('fr_FR'), then the days and month names will be French. For more information on the Carbon localization, see https://carbon.nesbot.com/guide/getting-started/localization.html#localization
 
 # Credits
 -   [GeoSot](https://github.com/GeoSot)
